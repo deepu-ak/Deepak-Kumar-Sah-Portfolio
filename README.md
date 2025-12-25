@@ -5,8 +5,6 @@ My personal digital space. Built with a focus on minimalism, fluid interactions,
 
 A high-end, design-centric bento-grid portfolio showcasing the intersection of **IT Infrastructure** and **Modern Digitalization**. Built with a focus on minimalism, fluid motion, and real-time interactivity.
 
-[Live Demo](https://your-github-username.github.io/your-repo-name/)
-
 ---
 
 ## 🎨 Design Philosophy
@@ -29,5 +27,5 @@ This project explores **"Titanium & Neon Glass"** aesthetics—a 2025 design tre
 ```text
 ├── index.html       # Semantic HTML5 structure
 ├── style.css        # Titanium & Neon Glass styling
-├── script.js        # Logic for Clock, Animations, and Snake Game
+├── script.js        # Logic for Clock
 └── README.md        # Documentation
